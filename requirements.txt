@@ -1,0 +1,7 @@
+
+
+requests
+pandas
+joblib
+Flask
+flask-socketio
